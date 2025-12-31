@@ -1,0 +1,10 @@
+vue
+vue-router
+pinia
+axios
+tailwindcss
+vite
+@types/plotly.js
+plotly.js-dist-min
+buffer==6.0.3
+stream-browserify==^3.0.0

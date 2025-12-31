@@ -1,0 +1,37 @@
+[
+    {
+        "machine_name": "LEGACY",
+        "updated_at": "2025-07-01 05:22:47",
+        "value": "DISCONNECT"
+    },
+    {
+        "machine_name": "MONO-200",
+        "updated_at": "2025-07-02 03:58:16",
+        "value": "DISCONNECT"
+    },
+    {
+        "machine_name": "MCV-450",
+        "updated_at": "2025-07-02 08:53:28.500000",
+        "value": "DISCONNECT"
+    },
+    {
+        "machine_name": "Mazak-H400",
+        "updated_at": "2025-07-02 08:53:28.500000",
+        "value": "DISCONNECT"
+    },
+    {
+        "machine_name": "LM-500M",
+        "updated_at": "2025-07-02 08:53:28.500000",
+        "value": "DISCONNECT"
+    },
+    {
+        "machine_name": "ROBOT-1",
+        "updated_at": "2025-07-02 08:53:28.500000",
+        "value": "DISCONNECT"
+    },
+    {
+        "machine_name": "SLTL",
+        "updated_at": "2025-07-07 05:41:18.568000",
+        "value": "OPERATE"
+    }
+]
